@@ -40,7 +40,7 @@ footer {
     text-align: center;
 }
 
-.logo {
+logo {
     width: 10px; /* Set the desired width of the logo */
     height: auto; /* Keep the height proportional to the width */
     vertical-align: middle; /* Align the logo vertically with the text */
