@@ -39,3 +39,10 @@ footer {
     padding: 10px;
     text-align: center;
 }
+
+.logo {
+    width: 50px; /* Set the desired width of the logo */
+    height: auto; /* Keep the height proportional to the width */
+    vertical-align: middle; /* Align the logo vertically with the text */
+    margin-left: 10px; /* Add some space between the text and the logo */
+}
